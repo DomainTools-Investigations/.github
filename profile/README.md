@@ -4,13 +4,13 @@ DomainTools Investigations (DTI) is a research program focused on preventing, mi
 ## 📈How Our Data is Published
 Our repositories contain all IOCs found in our published research. These are provided in the library as .csv and .json files. Links to the associated research can also be found with each data set.
 ## 📍Find Us
-Website: 
+Website: https://dti.domaintools.com/
 
-X/Twitter:
+X/Twitter: @DomainTools
 
-LinkedIn:
+LinkedIn: @DomainTools
 
-DTI RSS Feed: 
+DTI RSS Feed: https://rss.app/feeds/_6EavJGnrhVEC22vA.xml
 
 <!--
 
